@@ -1,6 +1,12 @@
 [
-  <<<<<<<
-  HEAD
+  {
+    "title": "Skibidi Toilet Simulator",
+    "folder": "DekkerF190232_SkibidiToiletSimulator",
+    "author": "SussyImposter",
+    "year": "2023_WS",
+    "info": "Whack a mole with Skibidi Toilets.",
+    "status": "1"
+  },
   {
     "title": "project title",
     "folder": "name of the folder",
